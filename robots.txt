@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sandipgiri576.github.io/sitemap.xml

@@ -1,0 +1,6 @@
+[
+ {"date":"2026-06-24","title":"TADF chemical-space paper accepted","summary":"Chemical-space exploration of organic donor–acceptor TADF emitters accepted in Journal of Materials Chemistry C.","url":"https://doi.org/10.1039/D6TC00707D","tags":["publication","tadf"]},
+ {"date":"2026-06-02","title":"Sustainable aviation-fuel design paper accepted","summary":"Data-driven exploration of strained hydrocarbons accepted in Sustainable Energy & Fuels.","url":"https://doi.org/10.1039/D6SE00364H","tags":["publication","energy"]},
+ {"date":"2026-05-01","title":"LLM Hackathon outcomes preprint","summary":"Collaborative work on LLM applications in materials science and chemistry is available on arXiv.","url":"https://arxiv.org/pdf/2605.03205","tags":["preprint","agents"]},
+ {"date":"2025-01-01","title":"CSPilot research software","summary":"Agentic computational chemistry workflows with documentation, source code, and an archived release.","url":"https://sandipgiri576.github.io/cspilot","tags":["software","agents"]}
+]
